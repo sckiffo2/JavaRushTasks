@@ -3,6 +3,9 @@
 #############
 
 .idea/
+out.log
+
+
 *.class
 *.jar
 *.war
